@@ -6,9 +6,9 @@ _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
 ### GitHub Trainer
 
-Teach all things _Git_, give away all the stickers, ensure world peace.
+Teach all things *Git*, give away all the stickers, ensure world peace.
 
-*looool*
+**looool**
 ### Supportocat
 
 Prov*i*de _world class support_ to customers on the GitHub platform
